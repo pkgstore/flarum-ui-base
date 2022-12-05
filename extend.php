@@ -1,6 +1,6 @@
 <?php
 
-namespace Z17\UI_Base;
+namespace PkgStore\UI_Base;
 
 use Flarum\Extend;
 
