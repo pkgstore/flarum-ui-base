@@ -1,5 +1,5 @@
 {
-  "name": "v77/flarum-ui-base",
+  "name": "pkgstore/flarum-ui-base",
   "description": "",
   "type": "flarum-extension",
   "license": "MIT",
@@ -42,6 +42,10 @@
     "flarum-extension": {
       "title": "",
       "category": "",
+      "info": {
+        "website": "https://v77.dev/",
+        "support": "https://github.com/pkgstore/flarum-ui-base/discussions"
+      },
       "icon": {
         "image": "",
         "backgroundColor": "#ffffff",
